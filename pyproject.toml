@@ -6,6 +6,8 @@ authors = ["haziqfaiz <1201302740@student.mmu.edu.my>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+black = "^22.8.0"
+requests = "^2.28.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
